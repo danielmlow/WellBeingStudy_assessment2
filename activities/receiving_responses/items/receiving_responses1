@@ -6,7 +6,7 @@
     "description": "receiving_responses1",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Would you like to receive what you write during the challenge? We can send this to you by email at the end of the challenge.",
+    "question": "Would you like to receive what you write in the journaling exercises during the challenge? Some people like to have a record of their thoughts to look back on. We can send this to you by email at the end of the challenge.",
     "ui": {
         "inputType": "radio"
     },

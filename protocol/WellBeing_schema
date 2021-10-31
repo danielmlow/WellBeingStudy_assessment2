@@ -23,11 +23,10 @@
             "../activities/audio_check/audio_check_schema",
             "../activities/voice_tasks/voice_tasks_schema",
             "../activities/wellbeing/wellbeing_schema",
-            "../activities/wellbeing/meditation_experience_schema",
+            "../activities/meditation_experience/meditation_experience_schema",
             "../activities/sutva/sutva_schema",
             "../activities/mental_health/mental_health_schema",
             "../activities/writing_tasks/writing_tasks_schema",
-            "../activities/receiving_responses/receiving_responses_schema",
             "activity_path:ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
