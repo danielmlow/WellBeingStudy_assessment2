@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "voice_tasks": "https://raw.githubusercontent.com/danielmlow/reproschema-library/3ce23c575e71e5e5d8b6d830fb7be793848d8eca/activities/VoiceTask/items/"
+        }
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "receiving_responses_schema",
+    "prefLabel": "receiving responses",
+    "description": "receiving responses",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "preamble": {
+        "en": "Last but not leas",
+        "es": "Para cada tarea, debe hacer clic en el botón <u>Grabar</u> antes de hablar o respirar y luego en el botón <u>Detener</u> una vez que haya terminado. Utilice su <u>volumen y tono típicos</u> en las tareasde conversación."
+    },
+    "ui": {
+        "addProperties": [
+	        {
+                "variableName": "receiving_responses1",
+                "isAbout": "items/receiving_responses1"
+            }
+        ],
+        "order": [
+            "items/receiving_responses1"
+        ],
+        "shuffle": false
+    }
+}
