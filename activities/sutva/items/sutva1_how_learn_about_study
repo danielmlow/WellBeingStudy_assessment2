@@ -15,7 +15,7 @@
         "valueType": "xsd:integer",
         "minValue": 0,
         "maxValue": 1,
-        "multipleChoice": true,
+        "multipleChoice": false,
         "choices": [
             {
                 "name": "From someone I know",
