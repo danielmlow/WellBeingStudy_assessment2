@@ -4,15 +4,19 @@
 Code to run the MIT Month of Wellness Challenge protocol using Reproschema.
 
 
-# Copy this repo 
+# Clone this repo 
+
+Or create a new repo with a different name on github.com/your_username
+
+Then also edit `githubSrc` and `assetsPublicPath` in `.ui-changes/src/config.js` to this repo.
+
+Once you've changed the paths to your new repo, you will commit and push. There is a workflow that will do a jsonlint on your scripts. This will take a few minutes. If there is no error, it will deploy and you'll see a green tick instead of a yellow circle:
+![image](https://user-images.githubusercontent.com/14787791/139591073-77f18f7e-5df6-4c1d-957c-dcefc7ac26e9.png)
+
 
 Go to setting and enable gh-pages:  
 
 ![image](https://user-images.githubusercontent.com/14787791/139488527-fa70f042-8d8e-4f84-a1af-8be6396c2e6c.png)
-
-
-
-Then also edit `githubSrc` and `assetsPublicPath` in `.ui-changes/src/config.js` to this repo.
 
 
 
