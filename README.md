@@ -27,7 +27,9 @@ Go to setting and enable gh-pages:
 
     [https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/danielmlow/WellBeingStudy_assessment2/master/protocol/WellBeing_schema](https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/danielmlow/WellBeingStudy_assessment2/master/protocol/WellBeing_schema) 
     
-    or replace your username and repo accordingly. 
+    or replace your username and repo accordingly.
+
+
 
 * To properly test, for each commit, a github action will test the JSONLD code. to know where the error is, you can run the commands in subdirectories.
 
