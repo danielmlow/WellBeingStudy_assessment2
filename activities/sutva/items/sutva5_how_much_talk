@@ -1,9 +1,9 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "receive_response1",
-    "prefLabel": "Receive responses 1",
-    "description": "This is a radio item.",
+    "@id": "sutva5_how_much_talk",
+    "prefLabel": "sutva5_how_much_talk",
+    "description": "sutva5_how_much_talk",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "question": "Did you talk about the study with this/these participant/s?",

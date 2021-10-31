@@ -11,6 +11,7 @@ Or create a new repo with a different name on github.com/your_username
 Then also edit `githubSrc` and `assetsPublicPath` in `.ui-changes/src/config.js` to this repo.
 
 Once you've changed the paths to your new repo, you will commit and push. There is a workflow that will do a jsonlint on your scripts. This will take a few minutes. If there is no error, it will deploy and you'll see a green tick instead of a yellow circle:
+![img.png](img.png)
 ![image](https://user-images.githubusercontent.com/14787791/139591073-77f18f7e-5df6-4c1d-957c-dcefc7ac26e9.png)
 
 

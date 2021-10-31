@@ -24,21 +24,20 @@
 	        {
                 "variableName": "sutva3_how_many_people",
                 "isAbout": "items/sutva3_how_many_people",
-                "isVis": "sutva2_do_you_know_people_participating===1"
+                "isVis": "sutva2_do_you_know_people_participating === 1"
             },
 	        {
                 "variableName": "sutva4_how_often_talk",
                 "isAbout": "items/sutva4_how_often_talk",
-                "isVis": "sutva2_do_you_know_people_participating===1"
+                "isVis": "sutva2_do_you_know_people_participating === 1"
             },
 	        {
                 "variableName": "sutva5_how_much_talk",
                 "isAbout": "items/sutva5_how_much_talk",
-                "isVis": "sutva2_do_you_know_people_participating===1"
+                "isVis": "sutva2_do_you_know_people_participating === 1"
             }
         ],
         "order": [
-            "items/receiving_responses1",
             "items/sutva2_do_you_know_people_participating",
 		"items/sutva3_how_many_people",
 		"items/sutva4_how_often_talk",
