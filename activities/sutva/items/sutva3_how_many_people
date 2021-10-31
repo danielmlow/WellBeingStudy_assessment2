@@ -8,9 +8,9 @@
     "version": "0.0.1",
     "question": "How many people do you know in the study? (Write number)",
     "ui": {
-        "inputType": "text"
+        "inputType": "number"
     },
     "responseOptions": {
-        "valueType": "xsd:string"
+        "valueType": "xsd:positiveInteger"
     }
 }

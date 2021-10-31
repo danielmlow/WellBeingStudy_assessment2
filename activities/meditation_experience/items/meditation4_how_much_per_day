@@ -8,10 +8,9 @@
     "version": "0.0.1",
     "question": "How long do you meditate on a typical day? (in minutes)",
     "ui": {
-        "inputType": "text"
+        "inputType": "number"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "maxLength": 5000
+        "valueType": "xsd:positiveInteger"
     }
 }
