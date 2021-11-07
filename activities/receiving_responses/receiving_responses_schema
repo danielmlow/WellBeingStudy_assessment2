@@ -13,13 +13,20 @@
     "version": "0.0.1",
     "ui": {
         "addProperties": [
-	        {
-                "variableName": "receiving_responses1",
-                "isAbout": "items/receiving_responses1"
-            }
+        	        {
+                        "variableName": "receiving_health_assessment",
+                        "isAbout": "items/receiving_health_assessment"
+                    },
+                    {
+                        "variableName": "receiving_responses1",
+                        "isAbout": "items/receiving_written_responses"
+                    }
+
+
         ],
         "order": [
-            "items/receiving_responses1"
+            "items/receiving_health_assessment",
+            "items/receiving_written_responses"
         ],
         "shuffle": false
     }

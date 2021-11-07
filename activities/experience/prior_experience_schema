@@ -6,16 +6,20 @@
         }
     ],
     "@type": "reproschema:Activity",
-    "@id": "meditation_experience_schema",
-    "prefLabel": "meditation_experience_schema",
-    "description": "meditation_experience_schema",
+    "@id": "prior_experience_schema",
+    "prefLabel": "prior_experience_schema",
+    "description": "prior_experience_schema",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
         "addProperties": [
+            {
+                "variableName": "journaling_experience",
+                "isAbout": "items/journaling_experience & branch === 'journaling'"
+            },
 	        {
                 "variableName": "meditation1_yes_no",
-                "isAbout": "items/meditation1_yes_no"
+                "isAbout": "items/meditation1_yes_no & branch === 'meditation'"
             },
 	        {
                 "variableName": "meditation2_how_long",

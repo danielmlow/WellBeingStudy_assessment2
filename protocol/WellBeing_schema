@@ -23,7 +23,7 @@
             "../activities/audio_check/audio_check_schema",
             "../activities/voice_tasks/voice_tasks_schema",
             "../activities/wellbeing/wellbeing_schema",
-            "../activities/meditation_experience/meditation_experience_schema",
+            "../activities/prior_experience/prior_experience_schema",
             "../activities/sutva/sutva_schema",
             "../activities/mental_health/mental_health_schema",
             "../activities/writing_tasks/writing_tasks_schema",
@@ -53,10 +53,10 @@
                 }
             },
             {
-                "isAbout": "../activities/meditation_experience/meditation_experience_schema",
-                "variableName": "meditation_experience",
+                "isAbout": "../activities/prior_experience/prior_experience_schema",
+                "variableName": "prior_experience",
                 "prefLabel": {
-                    "en": "Meditation experience"
+                    "en": "Prior experience"
                 }
             },
             {
