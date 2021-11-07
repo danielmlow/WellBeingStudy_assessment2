@@ -40,7 +40,7 @@
             }
         ],
         "order": [
-            "items/journaling_experience"
+            "items/journaling_experience",
             "items/meditation1_yes_no",
             "items/meditation2_how_long",
             "items/meditation3_how_often",
