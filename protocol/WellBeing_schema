@@ -43,21 +43,21 @@
                 "isAbout": "../activities/receiving_responses/receiving_responses_schema",
                 "variableName": "receiving_responses",
                 "prefLabel": {
-                    "en": "Receive responses?"
+                    "en": "Receive responses? (short)"
                 }
             },
             {
                 "isAbout": "../activities/sutva/sutva_schema",
                 "variableName": "sutva",
                 "prefLabel": {
-                    "en": "General questions"
+                    "en": "General questions (short)"
                 }
             },
             {
                 "isAbout": "../activities/prior_experience/prior_experience_schema",
                 "variableName": "prior_experience",
                 "prefLabel": {
-                    "en": "Prior experience"
+                    "en": "Prior experience (short)"
                 }
             },
             {
@@ -92,14 +92,14 @@
                 "isAbout": "../activities/feedback/feedback_schema",
                 "variableName": "feedback",
                 "prefLabel": {
-                    "en": "Feedback"
+                    "en": "Feedback (short)"
                 }
             },
             {
                 "isAbout": "activity_path:ThankYou/ThankYou_schema",
                 "variableName": "ThankYou_schema",
                 "prefLabel": {
-                    "en": "Submit responses"
+                    "en": "Submit responses (short)"
                 }
             }
         ],
