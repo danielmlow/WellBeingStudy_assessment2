@@ -6,7 +6,7 @@
     "description": "sutva3_how_many_people",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "How many people do you know in the study? (Write number)",
+    "question": "How many people do you know or maybe know in the study? (Write number)",
     "ui": {
         "inputType": "number"
     },
