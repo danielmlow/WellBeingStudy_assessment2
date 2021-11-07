@@ -29,16 +29,17 @@
 	        {
                 "variableName": "sutva4_how_often_talk",
                 "isAbout": "items/sutva4_how_often_talk",
-                "isVis": "sutva2_do_you_know_people_participating !== 0"
+                "isVis": "sutva2_do_you_know_people_participating !== 0 | sutva3_how_many_people !== 0"
             },
 	        {
                 "variableName": "sutva5_how_much_talk",
                 "isAbout": "items/sutva5_how_much_talk",
-                "isVis": "sutva2_do_you_know_people_participating !== 0"
+                "isVis": "sutva2_do_you_know_people_participating !== 0 | sutva3_how_many_people !== 0"
             }
         ],
         "order": [
-            "items/sutva2_do_you_know_people_participating",
+        "items/sutva1_how_learn_about_study"
+        "items/sutva2_do_you_know_people_participating",
 		"items/sutva3_how_many_people",
 		"items/sutva4_how_often_talk",
 		"items/sutva5_how_much_talk"

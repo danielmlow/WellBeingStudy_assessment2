@@ -27,6 +27,7 @@
             "../activities/sutva/sutva_schema",
             "../activities/mental_health/mental_health_schema",
             "../activities/writing_tasks/writing_tasks_schema",
+            "../activities/feedback/feedback_schema",
             "activity_path:ThankYou/ThankYou_schema"
         ],
         "shuffle": false,

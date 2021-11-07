@@ -15,7 +15,7 @@
         "valueType": "xsd:integer",
         "minValue": 0,
         "maxValue": 1,
-        "multipleChoice": false,
+        "multipleChoice": true,
         "choices": [
             {
                 "name": "From someone I know",
@@ -32,6 +32,14 @@
             {
                 "name": "Instagram",
                 "value": 4
+            },
+            {
+                "name": "Tik Tok",
+                "value": 4
+            },
+            {
+                "name": "Email",
+                "value": -1
             },
             {
                 "name": "Other",
