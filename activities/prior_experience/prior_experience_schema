@@ -42,7 +42,6 @@
         "order": [
             "items/journaling_experience"
             "items/meditation1_yes_no",
-            "items/meditation1_yes_no",
             "items/meditation2_how_long",
             "items/meditation3_how_often",
             "items/meditation4_how_much_per_day"
