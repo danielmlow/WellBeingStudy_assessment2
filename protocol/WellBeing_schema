@@ -36,7 +36,7 @@
                 "isAbout": "../activities/audio_check/audio_check_schema",
                 "variableName": "audio_check",
                 "prefLabel": {
-                    "en": "Audio check"
+                    "en": "Audio check (short)"
                 }
             },
             {
