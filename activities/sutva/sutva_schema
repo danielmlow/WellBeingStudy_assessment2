@@ -14,10 +14,6 @@
     "ui": {
         "addProperties": [
 	        {
-                "variableName": "sutva1_how_learn_about_study",
-                "isAbout": "items/sutva1_how_learn_about_study"
-            },
-	        {
                 "variableName": "sutva2_do_you_know_people_participating",
                 "isAbout": "items/sutva2_do_you_know_people_participating"
             },
@@ -38,7 +34,6 @@
             }
         ],
         "order": [
-        "items/sutva1_how_learn_about_study",
         "items/sutva2_do_you_know_people_participating",
 		"items/sutva3_how_many_people",
 		"items/sutva4_how_often_talk",
