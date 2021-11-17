@@ -22,8 +22,8 @@
                 "isAbout": "voice_tasks:say_ah"
             },
             {
-                "variableName": "animal_fluency",
-                "isAbout": "voice_tasks:animal_fluency"
+                "variableName": "fruit_fluency",
+                "isAbout": "voice_tasks:fruit_fluency"
             },
             {
                 "variableName": "free_speech_general_mood",
@@ -38,7 +38,7 @@
             "voice_tasks:say_ah",
             "voice_tasks:free_speech_general_mood",
 	        "voice_tasks:rainbow_passage_short_normal",
-	        "voice_tasks:animal_fluency"
+	        "voice_tasks:fruit_fluency"
         ],
         "shuffle": true
     }
